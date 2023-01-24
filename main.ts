@@ -4,17 +4,17 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
-    . . . . e e e e e e e . . . . . 
-    . . . e e e e e e e e e . . . . 
-    . . e e e e e e e e e e e . . . 
-    . e e e e e e e e e e e e e . . 
-    . e e e e e e e e e e e e e . . 
-    . e e e e e e e e e e e e e . . 
-    . e e e e e e e e e e e e e . . 
-    e e e e e e e e e e e e e e . . 
-    . e e e e e e e e e e e e e . . 
-    . . e e e e e e e e e e e . . . 
-    . . . . e e e e e e e . . . . . 
-    . . . . . e e e e e . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
